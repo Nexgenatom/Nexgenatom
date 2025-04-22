@@ -19,17 +19,18 @@ I'm a **Software Development Engineer in Test (SDET)** with 12 years of experien
 ### 🧪 Featured Projects
 Here are a few things I’ve been working on:
 
-- 🔧 [Automation Framework Template](https://github.com/yourname/selenium-framework) – A scalable Selenium + TestNG + PageObject framework.
-- 🌐 [API Test Suite](https://github.com/yourname/api-testing-suite) – RESTful API automation using REST Assured.
-- 🎯 [Cypress Test Suite](https://github.com/yourname/cypress-e2e-tests) – End-to-end testing framework using Cypress and Mocha.
-- 📊 [Load Test Scripts](https://github.com/yourname/jmeter-scripts) – JMeter test plans for performance benchmarking.
+- 🔧 [Automation Framework Template](https://github.com/Nexgenatom/webautomation-bdd)) – A scalable Selenium + TestNG + PageObject framework.
+- 🌐 [API Test Suite](https://github.com/Nexgenatom/api-automation-restassured) – RESTful API automation using REST Assured.
+- 🎯 [Python Projects](https://github.com/Nexgenatom/python-general-dsa) – Python Programs and Data structures.
+- 📊 [MERN Stack Project](https://github.com/Nexgenatom/Bakery) – Onilne Bakery - Ecommerce Website with MERN Stack.
+- 🔧  [Java Projects] (https://github.com/Nexgenatom/java-datastructures-algorithms) - Java Problem Solving - Data Structures
 
 ---
 
 ### 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nextgenatom&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nextgenatom&layout=compact&theme=react)
 
 ---
 

@@ -34,9 +34,9 @@ Here are a few things I’ve been working on:
 ---
 
 ### 📬 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/vaithyanathan-r-760b15b7/])
 - 🌐 [Portfolio](https://yourwebsite.dev)
-- ✉️ Email: youremail@example.com
+- ✉️ Email: vasanthvaithy@gmail.com
 
 ---
 

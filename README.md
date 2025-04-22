@@ -29,7 +29,7 @@ Here are a few things I’ve been working on:
 
 ### 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nextgenatom&show_icons=true&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nextgenatom&show_icons=true&theme=radical&v=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nextgenatom&layout=compact&theme=react)
 
 ---

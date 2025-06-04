@@ -33,6 +33,10 @@ Here are a few things I’ve been working on:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexgenatom&layout=compact&theme=react)
 
 ---
+### 📈 Profile views
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+
+------
 
 ### 📬 Let's Connect!
 - 💼 [LinkedIn]([https://www.linkedin.com/in/vaithyanathan-r-760b15b7/])

@@ -34,7 +34,7 @@ Here are a few things I’ve been working on:
 
 ---
 ### 📈 Profile views
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nexgenatom.Nexgenatom)
 
 ------
 
